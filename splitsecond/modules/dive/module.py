@@ -16,7 +16,6 @@ from __future__ import annotations
 
 from typing import Any
 
-from splitsecond.core.types import Result
 from splitsecond.core.video import Clip
 from splitsecond.modules.base import AnalysisModule
 
